@@ -18,7 +18,8 @@ const App = () => {
       <Services />
       <Work />
       <Contact />
-      {/* <div className='h-[4000px]'></div> */}
+      {/* This div is for background */}  
+      <div className='h-[4000px]'></div>
     </div>
   );
 };
